@@ -23,7 +23,7 @@ Write your code in [`sea_level_predictor.py`](./sea_level_predictor.py). For dev
 <br>
 
 **Testing**  
-The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience.
+The unit tests for this project are in [`test_module.py`](./test_module.py). We imported the tests from [`test_module.py`](./test_module.py) to [`main.py`](./main.py) for your convenience.
 <br>
 
 **Submitting**  
